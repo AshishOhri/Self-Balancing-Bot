@@ -20,7 +20,8 @@ The bot was tried and tested on various approaches. These approaches include bot
 |I2Cdev|Deals with the communication protocols of the MPU|
 |MPU6050|It is used to initialize the MPU6050 as well as provides various functionalites of the MPU|
 |PID|PID library is a custom built library used for creating PID objects and perform PID operations|
+|Timer1|This library provides PWM and interrupt utilities|
 |XBee|XBee library is used for reading data from XBee module|
 |code|The final arduino code that runs the bot using all the libraries created|
-|motor|motor library helps in initializing and controlling the encoder motor|
+|motor|motor library helps in initializing and controlling the PWM motor|
 |support|support library provides additional functionalities as per the theme requirements related to electromagnets and starting/stopping the run|
