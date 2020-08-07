@@ -9,8 +9,14 @@ This project was created as a part of [e-yantra robotics competition](https://e-
     <td align="center"><a href="https://github.com/jaigarg2"><img src="https://avatars3.githubusercontent.com/u/44141271?s=400&v=4" width="100px;" alt="Subhahu Jain" style="max-width:100%;"><br><sub><b>Jai Garg</b></sub></a></td>
   </tr>
  </tbody></table>
- 
- ## Description
+
+## Bot Design
+<div class="row">
+<img align="left" src="https://github.com/AshishOhri/Self-Balancing-Bot/blob/master/images/bot2.JPG" height="300px"/>
+<img align="center" src="https://github.com/AshishOhri/Self-Balancing-Bot/blob/master/images/bot.png" height="300px"/>
+</div><br>
+
+## Description
 The bot was tried and tested on various approaches. These approaches include both single PID as well as cascaded PIDs. The uses of each file/library has been described in the table below.
 
 |File|Description|
